@@ -8,4 +8,3 @@ streamlit
 xgboost
 statsmodels
 scipy
-math
